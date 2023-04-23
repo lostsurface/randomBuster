@@ -1,5 +1,6 @@
 # randomBuster
-RandomBuster is a generative adversarial network (GAN) model trained on token sequences. The model learns to generate new tokens that are similar to the training data, making it useful for tasks such as text generation and language modeling. RandomBuster can be fine-tuned on specific datasets and used to generate new, realistic token sequences.
+RandomBuster is a generative adversarial network (GAN) model trained to imitate token sequences and predict pseudo-random IDs, sequence predictions, purchase orders, electronic receipts, and identification numbers. The model learns to generate new tokens that are similar to the training data, making it a valuable tool for pentesting applications. RandomBuster can be fine-tuned on specific datasets and used to generate new, realistic token sequences, allowing for the identification and exploitation of weak number or sequence generators.
+
 
 1. Predicting weak passwords or PIN codes used for authentication.
 2. Generating synthetic credit card numbers for testing payment systems.
