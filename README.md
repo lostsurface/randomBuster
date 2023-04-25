@@ -1,8 +1,9 @@
 # randomBuster
 **randomBuster** is a generative adversarial network (**GAN**) model trained to imitate token sequences and predict pseudo-random IDs, sequence predictions, purchase orders, electronic receipts, and identification numbers. The model learns to generate new tokens that are similar to the training data, making it a valuable tool for pentesting applications. RandomBuster can be fine-tuned on specific datasets and used to generate new, realistic token sequences, allowing for the identification and exploitation of weak number or sequence generators.
 
-![](https://github.com/lostsurface/randomBuster/blob/main/_532850c4-713e-4b16-b1ba-017a5819a93f.jpg?raw=true)
-
+<p align="center">
+  <img src="https://github.com/lostsurface/randomBuster/blob/main/_532850c4-713e-4b16-b1ba-017a5819a93f.jpg?raw=true" alt="Logo" width="50%" style="border-radius: 13%; filter: blur(px);">
+</p>
 
 
 ### Example
@@ -63,4 +64,12 @@ RandomBuster is a flexible tool that can be fine-tuned on specific datasets and 
 Potential applications of randomBuster:
 
 1. Predicting weak passwords or PIN codes used for authentication.
-3. Generating synthetic credit card numbers.
+2. Generating synthetic credit card numbers for testing payment systems.
+3. Imitating device MAC addresses to bypass network access controls.
+4. Creating spoofed GPS location data for location-based services.
+5. Generating synthetic traffic data to test traffic prediction systems.
+6. Mimicking user behavior to evade intrusion detection systems.
+7. Generating synthetic system logs to test security information and event management (SIEM) systems.
+8. Creating fake online profiles for social engineering attacks.
+9. Generating synthetic website traffic to test load-balancing and caching systems.
+10. Mimicking fingerprint or facial recognition data to bypass biometric authentication systems.
