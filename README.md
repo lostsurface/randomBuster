@@ -61,6 +61,5 @@ RandomBuster is a flexible tool that can be fine-tuned on specific datasets and 
 
 Potential applications of randomBuster:
 
-1. Generating credit card numbers
 2. Predicting weak passwords or PIN codes used for authentication.
 3. Generating synthetic credit card numbers for testing payment systems.
